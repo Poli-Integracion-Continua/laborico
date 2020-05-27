@@ -7,7 +7,7 @@ Módulo de Integración Continua
 <li>Edgar Humbero Álvarez Delgado</li>
 <li>Neider Andrés Verjan Hernánndez</li>
 <li>Yecid Alonso Sánchez Contreras</li>
-<li>Leonardo Rocha Rojas/li>
+<li>Leonardo Rocha Rojas</li>
 <li>Fabián Mendoza</li>
 </ul>
 

@@ -21,7 +21,7 @@ DROP TABLE IF EXISTS `Laborico`.`Usuarios` ;
 CREATE TABLE IF NOT EXISTS `Laborico`.`Usuarios` (
  `IdUsuario` INT NOT NULL AUTO_INCREMENT,
  `TipoIdentificacion` varchar (50)  
-	check (TipoIdentificacion in ('CEDULA','TARJETA IDENTIDAD','PASAPORTE','CEDULA EXTRANJERIA')),
+	check (TipoIdentificacion in ('CEDULA','TARJETA IDENTIDAD','PASAPORTE','CEDULA EXTRANJERIA','CARNÉ DIPLOMATICO')),
  `NumeroIdentificacion` varchar(50) NOT NULL,
  `Nombres` varchar(255) NOT NULL,
  `Apellidos` varchar(255) NOT NULL,
@@ -89,7 +89,7 @@ DROP TABLE IF EXISTS `Laborico`.`Citas` ;
 CREATE TABLE IF NOT EXISTS `Laborico`.`Citas` (
  `IdCita` INT NOT NULL AUTO_INCREMENT,
  `IdServicio` INT NOT NULL ,
- `Fecha` date,
+ `Fecha` date not null,
  `Direccion` varchar(255) ,
  `Virtual` BIT  ,
  `PlataformaVirtual` varchar(255),

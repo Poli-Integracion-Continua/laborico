@@ -8,7 +8,7 @@
       }
 /* Aquí termina la función de envío del formulario. */
     </script>
-	<title>Mini-agenda</title>
+	<title>Agendamiento Servicios</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   </head>
 

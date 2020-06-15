@@ -33,10 +33,10 @@
                   <a class="nav-link" href="#">Profesionales</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contactanos.php">Agenda de servicios</a>
+                  <a class="nav-link" href="contratarServicio.php">Agenda de servicios</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Contactanos</a>
+                  <a class="nav-link" href=contactanos.php>Contactanos</a>
                 </li>
               </ul>
             </div>          

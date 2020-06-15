@@ -13,7 +13,8 @@
               <a class="btn btn-primary btn-lg" href="#" role="button">Iniciar sesión</a>
               <a class="btn btn-primary btn-lg" href="#" role="button">Registrarse</a>
             </p>
-        </div>             
+          </div>
+          <a href="index.php"><input type="button" class="btn btn-primary"  value="Agendar cita"></a>         
     </div>
   <?php
   include 'views/footer.php';

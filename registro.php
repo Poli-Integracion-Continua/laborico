@@ -6,11 +6,11 @@
 <form>
   <div class="form-row">
     <div class="form-group col-md-6">
-      <label for="inputEmail4">Email</label>
+      <label for="inputEmail4">Correo Electronico</label>
       <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
     </div>
     <div class="form-group col-md-6">
-      <label for="inputPassword4">Password</label>
+      <label for="inputPassword4">Contraseña</label>
       <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
     </div>
   </div>

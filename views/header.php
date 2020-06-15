@@ -24,7 +24,7 @@
                   <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Registro</a>
+                  <a class="nav-link" href="registro.php">Registro</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Categorias</a>

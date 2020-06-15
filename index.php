@@ -1,39 +1,6 @@
-<!DOCTYPE html>
-<html>
- <?php
-  include 'views/head.php'
- ?>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <!--<a class="navbar-brand" href="#"></a>-->
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav">
-                <li class="nav-item active">
-                  <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Registro</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Categorias</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Profesionales</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="index.php">Agenda de servicios</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Contactanos</a>
-                </li>
-              </ul>
-            </div>          
-          </nav>
-    </header>
+<?php
+  include 'views/header.php';
+?>
 
     <div class="container">
       <br><br>
@@ -46,8 +13,8 @@
               <a class="btn btn-primary btn-lg" href="#" role="button">Iniciar sesión</a>
               <a class="btn btn-primary btn-lg" href="#" role="button">Registrarse</a>
             </p>
-          </div>
-          <a href="index.php"><input type="button" value="Agendar cita"></a>         
+        </div>             
     </div>
-</body>
-</html>
+  <?php
+  include 'views/footer.php';
+?>

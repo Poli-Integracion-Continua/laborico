@@ -15,12 +15,12 @@
     </div>
   </div>
   <div class="form-group">
-    <label for="inputAddress">Address</label>
-    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+    <label for="inputAddress">Direccion</label>
+    <input type="text" class="form-control" id="inputAddress" placeholder="Calle 100 ">
   </div>
   <div class="form-group">
-    <label for="inputAddress2">Address 2</label>
-    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+    <label for="inputAddress2">Direccion 2</label>
+    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartamento, bloque etc">
   </div>
   <div class="form-row">
     <div class="form-group col-md-6">

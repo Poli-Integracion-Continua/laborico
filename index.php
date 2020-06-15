@@ -19,16 +19,16 @@
                   <a class="nav-link" href="#">Registro</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Categorias</a>
+                  <a class="nav-link" href="#">Categorías</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Profesionales</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="index.php">Agenda de servicios</a>
+                  <a class="nav-link" href="contratarServicio.php">Agenda de servicios</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Contactanos</a>
+                  <a class="nav-link" href="#">Contáctanos</a>
                 </li>
               </ul>
             </div>          
@@ -47,7 +47,7 @@
               <a class="btn btn-primary btn-lg" href="#" role="button">Registrarse</a>
             </p>
           </div>
-          <a href="index.php"><input type="button" value="Agendar cita"></a>         
+          <a href="index.php"><input type="button" class="btn btn-primary"  value="Agendar cita"></a>         
     </div>
 </body>
 </html>

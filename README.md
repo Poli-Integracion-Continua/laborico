@@ -19,4 +19,4 @@ El lenguaje de programación escogido es PHP con una base de dados MariaDB.
 
 <h3>¿Por qué seleccionaron ese tipo de proyecto de software?</h3>
 
-La coyuntura actual generada por la pandemia del COVID-19, ha generado graves problemas socio-económicos en el país, en particular el empleo se ha visto afectado. Con esta aplicación buscamos crear un prototipo de plataforma para ofertar servicios profesiones que ayudde a miles de colombianos que han perdido su empleo.
+La coyuntura actual generada por la pandemia del COVID-19, ha generado graves problemas socio-económicos en el país, en particular el empleo se ha visto afectado. Con esta aplicación buscamos crear un prototipo de plataforma para ofertar servicios profesiones que ayude a miles de colombianos que han perdido su empleo.

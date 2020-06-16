@@ -13,7 +13,7 @@ Módulo de Integración Continua
 
 <h3>¿Qué proyecto de software realizarán para el módulo y bajo qué lenguaje de programación?</h3>
 
-Decidimos desarrollar una aplicación WEB donde profesionales certificados o empíricos puedan ofertar servicios. La aplicaciones permitiría agendar citas virualmente a potenciales clientes y filtrar resultados según lo requieran. La idea es integrar profesionales de diferentes áreas como: plomeria, carpinteria, pintura, hasta físicos  o científicos.
+Decidimos desarrollar una aplicación WEB donde profesionales certificados o empíricos puedan ofertar servicios. La aplicaciones permitiría agendar citas virualmente a potenciales clientes y filtrar resultados según lo requieran. La idea es integrar profesionales de diferentes áreas como: plomeria, carpintería, pintura, hasta físicos  o científicos.
 
 El lenguaje de programación escogido es PHP con una base de dados MariaDB.
 

@@ -27,7 +27,7 @@
                   <a class="nav-link" href="registro.php">Registro</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Categorias</a>
+                  <a class="nav-link" href="#">Categorías</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Profesionales</a>

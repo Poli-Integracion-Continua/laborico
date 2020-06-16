@@ -24,11 +24,11 @@
   </div>
   <div class="form-row">
     <div class="form-group col-md-6">
-      <label for="inputCity">City</label>
+      <label for="inputCity">Ciudad</label>
       <input type="text" class="form-control" id="inputCity">
     </div>
     <div class="form-group col-md-4">
-      <label for="inputState">State</label>
+      <label for="inputState">Estado Civil</label>
       <select id="inputState" class="form-control">
         <option selected>Choose...</option>
         <option>...</option>
@@ -43,11 +43,11 @@
     <div class="form-check">
       <input class="form-check-input" type="checkbox" id="gridCheck">
       <label class="form-check-label" for="gridCheck">
-        Check me out
+        Recuerdame
       </label>
     </div>
   </div>
-  <button type="submit" class="btn btn-primary">Sign in</button>
+  <button type="submit" class="btn btn-primary">Registrarse</button>
 </form>
 </div>
 

@@ -20,7 +20,6 @@ if(isset($_REQUEST['action_type']) && !empty($_REQUEST['action_type'])){
             case 'Usuario':
                 $tipoUsuario    = 2;
             break;
-            
             default:
             break;
         }

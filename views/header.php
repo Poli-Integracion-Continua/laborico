@@ -27,7 +27,7 @@
                   <a class="nav-link" href="registro.php">Registro</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Categorías</a>
+                  <a class="nav-link" href="categorias.php">Categorías</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Profesionales</a>
@@ -36,7 +36,7 @@
                   <a class="nav-link" href="contratarServicio.php">Agenda de servicios</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href=contactanos.php>Contactanos</a>
+                  <a class="nav-link" href=contactanos.php>Contáctanos</a>
                 </li>
               </ul>
             </div>          

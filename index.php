@@ -12,9 +12,9 @@
             <p class="lead">
               <a class="btn btn-primary btn-lg" href="#" role="button">Iniciar sesión</a>
               <a class="btn btn-primary btn-lg" href="registro.php" role="button">Registrarse</a>
+              <a class="btn btn-primary btn-lg" href="agendarCita.php" role="button">Agendar Cita</a>
             </p>
-          </div>
-          <a href="index.php"><input type="button" class="btn btn-primary"  value="Agendar cita"></a>         
+          </div>        
     </div>
   <?php
   include 'views/footer.php';

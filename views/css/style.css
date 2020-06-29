@@ -13,3 +13,11 @@
 .texo1{
     color: #ffff;
 }
+.btn-lg{
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    border-radius: 2rem;
+    background-color: #18BC9C;
+    border-color: #18BC9C;
+}

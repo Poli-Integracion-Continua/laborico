@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="resources/styles.css">
+   
     <!-- CSS only -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="resources/styles.css">
@@ -23,9 +23,9 @@
                 <li class="nav-item active">
                   <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a class="nav-link" href="registro.php">Registro</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                   <a class="nav-link" href="categorias.php">Categorías</a>
                 </li>

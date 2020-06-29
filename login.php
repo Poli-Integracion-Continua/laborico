@@ -15,9 +15,8 @@
      <!-- Bootstrap Core CSS -->
     <link href="views/css/b4.css" rel="stylesheet">
 
-
-     <!-- Theme JavaScript -->
-      <script src="views/js/login1.js"></script>
+    <!-- Theme JavaScript -->
+    <script src="views/js/login1.js"></script>
 
 
     <style type="text/css" media="screen">
@@ -143,10 +142,6 @@
   
 </head>
 <body>
-  
-
-
-
   <div class="container-fluid">
     <div class="row no-gutter">
       <div class="d-none d-md-flex col-md-4 col-lg-6 bg-image"></div>
@@ -159,19 +154,14 @@
                 <form>
                   <div class="form-label-group">
                     <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-                    <label for="inputEmail">Nombre de usuario</label>
+                    <label for="inputEmail">correo electrónico</label>
                   </div>
 
                   <div class="form-label-group">
                     <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
                     <label for="inputPassword">Contraseña</label>
                   </div>
-
-                
                   <button class="btn btn-lg btn-primary btn-block btn-login text-uppercase font-weight-bold mb-2" type="submit">Registrarse</button>
-                 <!--  <div class="text-center">
-                    <a class="small" href="#">¿Olvidaste la contraseña?</a>
-                  </div> -->
                 </form>
               </div>
             </div>

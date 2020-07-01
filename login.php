@@ -51,6 +51,15 @@
         border-color: #18BC9C;
       }
 
+      .btn-back {
+        font-size: 0.9rem;
+        letter-spacing: 0.05rem;
+        padding: 0.75rem 1rem;
+        border-radius: 2rem;
+        background-color: #66888E;
+        border-color: #66888E;
+      }
+
       .form-label-group {
         position: relative;
         margin-bottom: 1rem;
@@ -162,6 +171,7 @@
                     <label for="inputPassword">Contraseña</label>
                   </div>
                   <button class="btn btn-lg btn-primary btn-block btn-login text-uppercase font-weight-bold mb-2" type="submit">Registrarse</button>
+                  <a href="index.php" class="btn btn-lg btn-primary btn-block btn-back text-uppercase font-weight-bold mb-2" >Volver a Inicio</a>
                 </form>
               </div>
             </div>

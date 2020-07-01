@@ -30,3 +30,9 @@ html {
   border-color: #18BC9C;
   /* letter-spacing: 0.05rem; */
 }
+
+/* cambiar tipo de letra */
+nav.navbar ul.navbar-nav li.nav-item {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+

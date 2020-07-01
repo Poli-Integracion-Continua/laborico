@@ -14,7 +14,7 @@
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <!--<a class="navbar-brand" href="#"></a>-->
+            <a class="navbar-brand" href="index.php">Laborico</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -27,16 +27,16 @@
                   <a class="nav-link" href="registro.php">Registro</a>
                 </li> -->
                 <li class="nav-item">
-                  <a class="nav-link" href="categorias.php">Categorías</a>
+                  <a class="nav-link active" href="categorias.php">Categorías</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Profesionales</a>
+                  <a class="nav-link active" href="#">Profesionales</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contratarServicio.php">Agenda de servicios</a>
+                  <a class="nav-link active" href="contratarServicio.php">Agenda de servicios</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href=contactanos.php>Contáctanos</a>
+                  <a class="nav-link active" href=contactanos.php>Contáctanos</a>
                 </li>
               </ul>
             </div>          

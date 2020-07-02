@@ -12,33 +12,33 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 </head>
 <body>
-    <header>
+    <header>        
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="index.php">Laborico</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav">
-                <li class="nav-item active">
-                  <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
-                </li>
-                <!-- <li class="nav-item">
-                  <a class="nav-link" href="registro.php">Registro</a>
-                </li> -->
-                <li class="nav-item">
-                  <a class="nav-link active" href="categorias.php">Categorías</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link active" href="#">Profesionales</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link active" href="contratarServicio.php">Agenda de servicios</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link active" href=contactanos.php>Contáctanos</a>
-                </li>
-              </ul>
-            </div>          
-          </nav>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="navbar-brand" href="index.php">Laborico</a>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+              <li class="nav-item active">
+                <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="categorias.php">Categorías</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Profesionales</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="contratarServicio.php">Agendar Servicio</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="contactanos.php">Contactanos</a>
+              </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">      
+              <a class="btn btn-secondary" href="login.php">Iniciar Sesion</a>
+            </form>
+          </div>
+        </nav>
     </header>

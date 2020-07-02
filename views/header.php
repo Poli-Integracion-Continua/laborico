@@ -27,7 +27,7 @@
                 <a class="nav-link" href="categorias.php">Categorías</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="#">Profesionales</a>
+                <a class="nav-link" href="profesionales">Profesionales</a>
               </li>
               <li class="nav-item active">
                 <a class="nav-link" href="contratarServicio.php">Agendar Servicio</a>

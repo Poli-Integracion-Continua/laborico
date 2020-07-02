@@ -13,6 +13,8 @@
           <a class="btn btn-primary btn-lg" href="registro.php" role="button">Registrarse</a>
           <a class="btn btn-primary btn-lg" href="agendarCita.php" role="button">Agendar Cita</a>
         </p>
+      </div>
+</div>
 <?php
   include 'views/footer.php';
 ?>

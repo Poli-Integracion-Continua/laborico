@@ -31,6 +31,24 @@ html {
   /* letter-spacing: 0.05rem; */
 }
 
+/*Color del barra de menu*/
+nav.navbar{
+  background-color: #18BC9C !important;
+}
+
+/* Color de footer*/
+footer.footer-laborico{
+  background-color: #18BC9C !important;
+}
+
+/*Posicionamiento de footer*/
+#footer {  
+  position: absolute;  
+  bottom: 0;
+  width: 100%;
+  height: 40px;  
+}
+
 /* cambiar tipo de letra */
 nav.navbar ul.navbar-nav li.nav-item {
   font-family: Tahoma, Geneva, sans-serif;

@@ -5,6 +5,7 @@ html {
   body {
     margin: 0;
     margin-bottom: 40px;
+    padding: 0;
   }
   footer {
     background-color: black;
@@ -47,6 +48,8 @@ footer.footer-laborico{
   bottom: 0;
   width: 100%;
   height: 40px;  
+  left: 0;  
+  z-index: 50;
 }
 
 /* cambiar tipo de letra */
@@ -193,3 +196,60 @@ section .section-title {
     height: 120px;
     border-radius: 50%;
 }
+
+
+
+/*###############################
+/* BANNER PAGINA INDEX */
+/*###############################*/
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,700,900);
+
+h1,
+p,
+a{
+  margin: 0;
+  padding: 0;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1 {
+  font-size: 2.8em;
+  padding: 10px 0;
+  font-weight: 800;
+}
+
+p {
+  font-size: 1.1em;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.banner {
+  width: 100%;
+  padding:60px 0;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/banner1.jpg");
+  color: white;
+}
+
+
+.btn-bgstroke {
+  font-size: 20px;
+  display: inline-block;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 300;
+  margin-top: 30px; 
+}
+
+.btn-bgstroke:hover {
+  background-color: white;
+  color: #33cccc;
+}
+

@@ -29,9 +29,10 @@
               <li class="nav-item active">
                 <a class="nav-link" href="profesionales">Profesionales</a>
               </li>
-              <li class="nav-item active">
+              <!-- Pendiente de revisar donde deberia ir este enlace -->
+              <!-- <li class="nav-item active">
                 <a class="nav-link" href="contratarServicio.php">Agendar Servicio</a>
-              </li>
+              </li> -->
               <li class="nav-item active">
                 <a class="nav-link" href="contactanos.php">Contactanos</a>
               </li>

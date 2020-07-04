@@ -28,7 +28,7 @@
       <div class="card-body">
         <h5 class="card-title">Buscas Empleo</h5>
         <p class="card-text">Regitrate para dar a conocerte y que las empresas o personas que te necesiten te contacten.</p>
-        <a href="#" class="btn btn-primary mt-2">Registrarme</a>
+        <a href="registroProfesional.php" class="btn btn-primary mt-2">Registrarme</a>
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@
       <div class="card-body">
         <h5 class="card-title">Buscas Personas Talentosas</h5>
         <p class="card-text">Registrate para poder contactar a las personas con los talentos que necesitas.</p>
-        <a href="#" class="btn btn-primary mt-2">Regsitrarme</a>
+        <a href="registroUsuario.php" class="btn btn-primary mt-2">Regsitrarme</a>
       </div>
     </div>
   </div>

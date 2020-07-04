@@ -1,6 +1,9 @@
 <?php
     include 'views/header.php';
 ?>
+<div class="container mt-2">
+  <h2>Registro De Talentos</h2>
+</div>
 
 <div class="container mt-3">
 <form action="model/guardaRegistro.php" method="post">

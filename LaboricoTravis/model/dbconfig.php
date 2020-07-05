@@ -2,7 +2,7 @@
 class Database{
      
     private $host = "localhost";
-    private $db_name = "laborico";
+    private $db_name = "DBLaborico";
     private $username = "root";
     private $password = "";
     

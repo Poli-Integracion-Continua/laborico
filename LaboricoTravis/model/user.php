@@ -27,9 +27,6 @@ class User
 					$_SESSION['user_session'] 	= $userRow['idUsuario'];
 					$_SESSION['tipo']  			= $userRow['idTipoUsuario'];
 					$_SESSION['nombres']		= $userRow['nombresUsuario'];
-					$_SESSION['apellidos'] 		= $userRow['apellidosUsuario'];
-					$_SESSION['documento']		= $userRow['documentoUsuario'];
-		
 					return true;
 				
 				}else{
@@ -63,8 +60,6 @@ class User
 		unset($_SESSION['user_session']);
 		unset($_SESSION['tipo']);
 		unset($_SESSION['nombres']);
-		unset($_SESSION['apellidos']);
-		unset($_SESSION['documento']);
 		
 		session_destroy();
 		return true;

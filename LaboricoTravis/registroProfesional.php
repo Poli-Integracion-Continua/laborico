@@ -33,14 +33,14 @@
       </div>
 
       <div class="form-group col-md-6">
-        <label for="inputState">Estado Civil:</label>
-        <select id="inputState" class="form-control">
+        <label for="inputJob">Profesión:</label>
+        <select id="inputJob" class="form-control">
           <option value="0">...</option>
-          <option value="1">Soltero</option>
-          <option value="1">Casado</option>
-          <option value="1">Unión Libre</option>
+          <option value="1">Profesión 1</option>
+          <option value="2">Profesión 2</option>
+          <option value="3">Profesión 3</option>
         </select>
-      </div>    
+      </div> 
     </div>
 
     <!-- Teléfono -->
@@ -54,6 +54,23 @@
         <label for="inputState">Celular:</label>
         <input type="text" class="form-control" autocomplete="Off" id="inputCel">
       </div>    
+    </div>
+
+    <!-- Ciudad -->
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputTypeDocument">Tipo de documento:</label>
+        <select id="inputTypeDocument" class="form-control">
+          <option value="0">...</option>
+          <option value="1">Tarjeta de identidad</option>
+          <option value="2">Cédula de ciudadanía</option>
+          <option value="3">Cédula de extranjería</option>
+        </select>
+      </div> 
+      <div class="form-group col-md-6">
+        <label for="inputDocument">Número de documento:</label>
+        <input type="text" class="form-control" autocomplete="Off" id="inputDocument">
+      </div>   
     </div>
 
     <!-- email -->

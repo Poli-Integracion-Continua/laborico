@@ -19,7 +19,7 @@ function getProfesionales(){
         'id' => 1,
         'nombres' => 'Laura Pinzon',
         'profesion' => 'Desarrolladora de software',
-        'perfil' => 'Soy una persona apasionado por la tecnologia,  con conocimiento en la implementación y desarrollo rápido de aplicaciones software enfocado a entornos web en: JAVA, .NET, Python, HTML, JAVASCRIPT y PHP',
+        'perfil' => 'Soy una persona apasionado por la tecnología, con conocimiento en la implementación y desarrollo rápido de aplicaciones software enfocado a entornos web en: JAVA, .NET, Python, HTML, JAVASCRIPT y PHP',
         'foto' => 'https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png'
     );
     array_push($arrayProfesionales, $prof1);
@@ -28,7 +28,7 @@ function getProfesionales(){
         'id' => 2,
         'nombres' => 'David Vargas',
         'profesion' => 'Administrador de empresas',
-        'perfil' =>  'Profesional con una solida vision humanistica, cientifica y tecnologica, habil en el campo de la planeación, organización, direccion y control para el logro de los objetivos',
+        'perfil' =>  'Profesional con una sólida visión humanística, científica y tecnológica, hábil en el campo de la planeación, organización, direccion y control para el logro de los objetivos',
         'foto' => 'https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_02.png'
     );
     array_push($arrayProfesionales, $prof2);
@@ -36,8 +36,8 @@ function getProfesionales(){
     $prof3 = array(
         'id' => 3,
         'nombres' => 'Daniela Garavito',
-        'profesion' => 'Diseñadora Grafica',
-        'perfil' => 'Soy una diseñadora que enfoca su labor hacia la creacion de identidad grafica desde la imagen global, la ilustracion, el ambito editorial y la gerencia de marca',
+        'profesion' => 'Diseñadora Gráfica',
+        'perfil' => 'Soy una diseñadora que enfoca su labor hacia la creacion de identidad gráfica desde la imagen global, la ilustracion, el ambito editorial y la gerencia de marca',
         'foto' => 'https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_03.png'
     );
     array_push($arrayProfesionales, $prof3);    

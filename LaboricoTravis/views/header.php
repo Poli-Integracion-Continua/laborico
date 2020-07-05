@@ -27,7 +27,7 @@
                 <a class="nav-link" href="categorias.php">Categorías</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="profesionales">Profesionales</a>
+                <a class="nav-link" href="profesionales.php">Profesionales</a>
               </li>
               <!-- Pendiente de revisar donde deberia ir este enlace -->
               <!-- <li class="nav-item active">

@@ -28,7 +28,7 @@ function getProfesionales(){
         'id' => 2,
         'nombres' => 'David Vargas',
         'profesion' => 'Administrador de empresas',
-        'perfil' =>  'Profesional con una sólida visión humanística, científica y tecnológica, hábil en el campo de la planeación, organización, direccion y control para el logro de los objetivos',
+        'perfil' =>  'Profesional con una sólida visión humanística, científica y tecnológica, hábil en el campo de la planeación, organización, dirección y control para el logro de los objetivos',
         'foto' => 'https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_02.png'
     );
     array_push($arrayProfesionales, $prof2);
@@ -37,7 +37,7 @@ function getProfesionales(){
         'id' => 3,
         'nombres' => 'Daniela Garavito',
         'profesion' => 'Diseñadora Gráfica',
-        'perfil' => 'Soy una diseñadora que enfoca su labor hacia la creacion de identidad gráfica desde la imagen global, la ilustracion, el ambito editorial y la gerencia de marca',
+        'perfil' => 'Soy una diseñadora que enfoca su labor hacia la creación de identidad gráfica desde la imagen global, la ilustración, el ámbito editorial y la gerencia de marca',
         'foto' => 'https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_03.png'
     );
     array_push($arrayProfesionales, $prof3);    

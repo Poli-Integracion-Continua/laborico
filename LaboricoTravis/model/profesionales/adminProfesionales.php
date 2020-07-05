@@ -56,7 +56,7 @@ function getProfesionales(){
         'nombres' => 'Leonardo Mejia',
         'profesion' => 'Plomero',
         'perfil' => 'Plomero calificado acostumbrado a trabajar en grandes equipos y con complejos sistemas de tuberias, extensos conocimientos en regulaciones legales de seguridad',
-        'foto' => 'https://lh3.googleusercontent.com/proxy/dbq8rb4tC3XFIvhtPdzwxjsNsMACxnyLscpDUm8KBKsyKIVA_lPcL95SJ9_eMob2xmabRNSTFmWZkjnGLQ2oiVZtjyFXX4Yq_2A6Mu1QlZyrwToPgLY67grRQmXiuZsfL6W5fohxwU02M7CIfUip4caeHeLqkO8'
+        'foto' => 'https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_05.png'
     );
     array_push($arrayProfesionales, $prof5); 
 
@@ -65,7 +65,7 @@ function getProfesionales(){
         'nombres' => 'Jose Serpa',
         'profesion' => 'Carpintero ebanista',
         'perfil' => 'Carpintero hábil y apasionado con más de 10 años de experiencia en construcción residencial y comercial. Reputación positiva por la calidad del trabajo, la puntualidad en la construcción y ajustados a su presupuesto',
-        'foto' => 'https://lh3.googleusercontent.com/proxy/13Oqq7K1Srh0kS01_gzO2W_J1vW9DWVtteGnHW57PeHzcPHcG4BzoRefGpasAshvo_m4qmFEXyTt2JSUcwdb4C9_FOJUvvd6vESGh-axeIUo4wzTRn9dtnc91Twtdw4'
+        'foto' => 'https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_06.png'
     );
     array_push($arrayProfesionales, $prof6); 
 

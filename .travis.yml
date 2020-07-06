@@ -1,5 +1,5 @@
 deploy:
   provider: script
-  script: bash scripts/deploy.sh
+  script: /.travis/deploy.sh
   on:
     branch: master

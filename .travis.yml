@@ -3,6 +3,8 @@ php:
   - '7.2'
 services:
   - docker
+before_script: composer install
+script: phpunit
 deploy:
   provider: azure_web_apps
   verbose: true

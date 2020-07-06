@@ -16,7 +16,14 @@
     <label for="exampleFormControlTextarea1">Mensaje</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
-  <button type="submit" class="btn btn-primary">Enviar</button>
+  <div class="form-row">
+      <div class="form-group col-md-6 text-center mt-4">
+        <a href="index.php" class="btn btn-secondary btn-block">Cancelar</a>
+      </div>
+      <div class="form-group col-md-6 text-center mt-4">
+        <button type="submit" class="btn btn-primary btn-block">Enviar</button>
+      </div>      
+    </div>
 </form>
 </div>
 <?php

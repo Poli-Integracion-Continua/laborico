@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-sshpass -p $SSH_PASSWORD ssh $SSH_USER@SSH_IP exit
+sshpass -p 'InteGr@ci0n' ssh root@198.199.65.103
 # pull most current version of example web site container image
 docker pull naverjan/laborico
 

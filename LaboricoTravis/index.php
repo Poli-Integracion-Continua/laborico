@@ -12,7 +12,7 @@
   <div class="card">
   <div class="card-body">
     <h4 class="card-title">Encuentra lo que buscas</h4>
-    <p class="card-text">Ya sea que estes buscando empleo o buscando personas talentosas, estas en el lugar correcto.</p>
+    <p class="card-text">Ya sea que estés buscando empleo o buscando personas talentosas, estás en el lugar correcto.</p>
     <p class="card-text"><small class="text-muted">Solo se va rápido pero acompañado se llega más lejos.</small></p>
   </div>
   <img src="resources/images/card-extend.jpg" class="card-img-top" alt="card-extend">

@@ -1,4 +1,4 @@
 deploy:
   provider: azure_web_apps
-  skip_cleanup: true
-  on: master
+  on:
+    branch: master

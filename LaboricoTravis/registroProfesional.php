@@ -1,5 +1,9 @@
 <?php
   include 'views/header.php';
+  include 'model/profesiones/profesionesAdmin.php';
+
+  //consultamos las profesiones
+  $profesiones = getListProfesiones();
 ?>
 
 <div class="container mt-2">
@@ -35,10 +39,10 @@
       <div class="form-group col-md-6">
         <label for="inputJob">Profesión:</label>
         <select id="inputJob" class="form-control">
-          <option value="0">...</option>
-          <option value="1">Profesión 1</option>
-          <option value="2">Profesión 2</option>
-          <option value="3">Profesión 3</option>
+          <option value="0">Seleccione una opción...</option>
+          <?php foreach($profesiones as $value){ ?>
+            <option value="<?= $value['id']?>"><?= $value['profesion']?></option>
+          <?php } ?>
         </select>
       </div> 
     </div>
@@ -61,7 +65,7 @@
       <div class="form-group col-md-6">
         <label for="inputTypeDocument">Tipo de documento:</label>
         <select id="inputTypeDocument" class="form-control">
-          <option value="0">...</option>
+          <option value="0">Seleccione una opción...</option>
           <option value="1">Tarjeta de identidad</option>
           <option value="2">Cédula de ciudadanía</option>
           <option value="3">Cédula de extranjería</option>
@@ -75,7 +79,7 @@
 
     <!-- email -->
     <div class="form-row">
-      <div class="form-group col-md-6">
+      <div class="form-group col-md-12">
         <label for="inputEmail4">Correo electrónico: </label>
         <input type="email" class="form-control" id="inputEmail4" autocomplete="Off" placeholder="Email">
       </div>
@@ -83,10 +87,21 @@
         <label for="inputPassword4">Contraseña:</label>
         <input type="password" class="form-control" autocomplete="Off" id="inputPassword4" placeholder="Password">
       </div>
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">Confirme su contraseña:</label>
+        <input type="password" class="form-control" autocomplete="Off" id="inputPassword4" placeholder="Password">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6 text-center mt-4">
+        <a href="index.php" class="btn btn-secondary btn-block">Cancelar</a>
+      </div>
+      <div class="form-group col-md-6 text-center mt-4">
+        <button type="submit" class="btn btn-primary btn-block">Guardar</button>
+      </div>      
     </div>
     
-    <div class="form-group">
-    <button type="submit" class="btn btn-primary">Guardar</button>
   </form>
 </div>
 

@@ -22,24 +22,11 @@
   <div class="form-group">
     <label for="inputAddress">Direccion</label>
     <input type="text" class="form-control" id="inputAddress" autocomplete="Off" placeholder="Calle 100 ">
-  </div>
-  <div class="form-group">
-    <label for="inputAddress2">Direccion 2</label>
-    <input type="text" class="form-control" id="inputAddress2" autocomplete="Off" placeholder="Apartamento, bloque etc">
-  </div>
+  </div>  
   <div class="form-row">
     <div class="form-group col-md-6">
       <label for="inputCity">Ciudad</label>
       <input type="text" class="form-control" autocomplete="Off" id="inputCity">
-    </div>
-    <div class="form-group col-md-4">
-      <label for="inputState">Estado Civil</label>
-      <select id="inputState" class="form-control">
-        <option value="0">...</option>
-        <option value="1">Soltero</option>
-        <option value="1">Casado</option>
-        <option value="1">Unión Libre</option>
-      </select>
     </div>    
   </div>
   <div class="form-group">
@@ -50,7 +37,14 @@
       </label>
     </div>
   </div>
-  <button type="submit" class="btn btn-primary">Guardar</button>
+  <div class="form-row">
+      <div class="form-group col-md-6 text-center mt-4">
+        <a href="index.php" class="btn btn-secondary btn-block">Cancelar</a>
+      </div>
+      <div class="form-group col-md-6 text-center mt-4">
+        <button type="submit" class="btn btn-primary btn-block">Guardar</button>
+      </div>      
+    </div>
 </form>
 </div>
 

@@ -5,7 +5,6 @@ addons:
     - sshpass
 deploy:
   provider: script
-  $ sshpass -p '$SSH_PASSWORD' ssh $SSH_USER@SSH_IP
   script: /.travis/deploy.sh
   on:
     branch: master

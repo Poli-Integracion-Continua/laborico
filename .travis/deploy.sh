@@ -1,3 +1,6 @@
+#!/bin/bash
+set -e
+sshpass -p $SSH_PASSWORD ssh $SSH_USER@SSH_IP exit
 # pull most current version of example web site container image
 docker pull naverjan/laborico
 

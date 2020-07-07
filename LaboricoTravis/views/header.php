@@ -34,7 +34,7 @@
                 <a class="nav-link" href="contratarServicio.php">Agendar Servicio</a>
               </li> -->
               <li class="nav-item active">
-                <a class="nav-link" href="contactanos.php">Contactanos</a>
+                <a class="nav-link" href="contactanos.php">Contáctanos</a>
               </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">      

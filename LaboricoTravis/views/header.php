@@ -38,7 +38,7 @@
               </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">      
-              <a class="btn btn-secondary" href="login.php">Iniciar Sesion</a>
+              <a class="btn btn-secondary" href="login.php">Iniciar Sesión</a>
             </form>
           </div>
         </nav>

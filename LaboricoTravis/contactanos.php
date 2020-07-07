@@ -5,7 +5,7 @@
 <div class="container">
 <form>
   <div class="form-group mt-3">
-    <label for="exampleInputEmail1">Correo electronico</label>
+    <label for="exampleInputEmail1">Correo electrónico</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Ingrese su correo">
     <small id="emailHelp" class="form-text text-muted">Su correo no sera utilizado con uso de publicidad.</small>
   </div>

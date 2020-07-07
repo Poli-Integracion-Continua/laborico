@@ -11,7 +11,7 @@
 <form action="model/guardaRegistro.php" method="post">
   <div class="form-row">
     <div class="form-group col-md-6">
-      <label for="inputEmail4">Correo Electronico</label>
+      <label for="inputEmail4">Correo Electrónico</label>
       <input type="email" class="form-control" id="inputEmail4" autocomplete="Off" placeholder="Email">
     </div>
     <div class="form-group col-md-6">
@@ -20,7 +20,7 @@
     </div>
   </div>
   <div class="form-group">
-    <label for="inputAddress">Direccion</label>
+    <label for="inputAddress">Dirección</label>
     <input type="text" class="form-control" id="inputAddress" autocomplete="Off" placeholder="Calle 100 ">
   </div>  
   <div class="form-row">
@@ -33,7 +33,7 @@
     <div class="form-check">
       <input class="form-check-input" type="checkbox" id="gridCheck">
       <label class="form-check-label" for="gridCheck">
-        Recuerdame
+        Recuérdame
       </label>
     </div>
   </div>

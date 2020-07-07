@@ -163,7 +163,7 @@
                 <form>
                   <div class="form-label-group">
                     <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-                    <label for="inputEmail">correo electrónico</label>
+                    <label for="inputEmail">Correo electrónico</label>
                   </div>
 
                   <div class="form-label-group">

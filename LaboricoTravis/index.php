@@ -4,7 +4,7 @@
 
 <section class="banner">
     <h1>Bienvenido a Laborico!</h1>
-    <p>Laborico es una iniciativa que nacio a raiz del desempleo que exite en Colombia, buscando conectar gente talentoza con personas que requieren ese talento.</p>
+    <p>Laborico es una iniciativa que nació a raíz del desempleo que existe en Colombia, buscando conectar gente talentosa con personas que requieren ese talento.</p>
     <!-- <a class="btn-bgstroke">Empezar</a> -->
 </section>
 <section>
@@ -27,7 +27,7 @@
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Buscas Empleo</h5>
-        <p class="card-text">Regitrate para dar a conocerte y que las empresas o personas que te necesiten te contacten.</p>
+        <p class="card-text">Regístrate para dar a conocerte y que las empresas o personas que te necesiten te contacten.</p>
         <a href="registroProfesional.php" class="btn btn-primary mt-2">Registrarme</a>
       </div>
     </div>
@@ -36,8 +36,8 @@
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Buscas Personas Talentosas</h5>
-        <p class="card-text">Registrate para poder contactar a las personas con los talentos que necesitas.</p>
-        <a href="registroUsuario.php" class="btn btn-primary mt-2">Regsitrarme</a>
+        <p class="card-text">Regístrate para poder contactar a las personas con los talentos que necesitas.</p>
+        <a href="registroUsuario.php" class="btn btn-primary mt-2">Registrarme</a>
       </div>
     </div>
   </div>
